@@ -1,14 +1,14 @@
-Phix Theme For Sublime Text 2
-=============================
+Phix Colour Scheme For Sublime Text 2
+=====================================
 
-This is a syntax highlighting theme for Sublime Text 2, built around earthy colours.
+This is a syntax highlighting colour scheme for Sublime Text 2, built around earthy colours.
 
 Installation
 ------------
 
 Clone the repo into your Packages/ folder.  Then, in Sublime Text 2, goto:
 
-  Preferences > Color Scheme > sublime-phix-theme > Phix Dark
+  Preferences > Color Scheme > sublime-phix-color-scheme > Phix Dark
 
 to activate the Phix Dark colour scheme.  A 'light' colour scheme is in the works.
 
