@@ -10,7 +10,7 @@ Clone the repo into your Packages/ folder.  Then, in Sublime Text 2, goto:
 
   Preferences > Color Scheme > sublime-phix-theme > Phix Dark
 
-to activate the Phix Dark colour scheme.
+to activate the Phix Dark colour scheme.  A 'light' colour scheme is in the works.
 
 Feedback, Pull Requests Welcome
 -------------------------------
